@@ -1,0 +1,20 @@
+33.35  Start copying  1.zip  to  1
+35.31  Start copying  1.zip  to  2
+37.24  Start copying  1.zip  to  3
+39.11  Start copying  1.zip  to  4
+40.99  Start copying  1.zip  to  5
+42.8  Start copying  1.zip  to  6
+44.61  Start copying  1.zip  to  7
+46.3  Start copying  1.zip  to  8
+48.0  Start copying  1.zip  to  9
+50.43  Start copying  1.zip  to  10
+126.27  6  is copied completely
+126.28  8  is copied completely
+126.28  7  is copied completely
+126.28  9  is copied completely
+126.28  3  is copied completely
+126.28  5  is copied completely
+126.28  10  is copied completely
+126.28  4  is copied completely
+126.28  1  is copied completely
+126.29  2  is copied completely

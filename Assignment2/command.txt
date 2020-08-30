@@ -1,0 +1,4 @@
+netstat -ano | find "10080"
+
+taskkill /pid 10084 /f
+
